@@ -1,1 +1,0 @@
-from .SystemCatalog import SystemCatalog

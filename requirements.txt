@@ -1,4 +1,0 @@
-vm-automation ~= 0.1.8
-pyvmomi
-tqdm
-cpe-utils
